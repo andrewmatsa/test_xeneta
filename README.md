@@ -3,7 +3,7 @@
 According to requirements https://github.com/xeneta/test-automation-task implemented test framework. It shows correct structure and approach and possibility of enhancement.
 
 # Test Cases
-> **Note**: Selected tests are marked as **bold** from list because it depends on outside js libraries and actions with user
+> **Note**: Selected tests are marked as **bold** from list because it depends on outside js libraries and actions with user. It may be a blocker for the user and he cannot contact us so it should be covered at first.
 
 |Demo page|
 | --------- | 
@@ -20,7 +20,7 @@ According to requirements https://github.com/xeneta/test-automation-task impleme
 | **Verify “Open roles” with dropdowns and text inside**| 
 | Verify footer menu with links| 
 
-Several verifications were implemented. Detailed Test steps is implemented in doc stings for each test. example
+Several verifications were implemented. Detailed Test steps is implemented in doc stings for each test. Example:
 
 ```javascript
   def test_001_verify_services(self):
