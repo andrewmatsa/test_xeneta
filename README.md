@@ -42,4 +42,4 @@ Several verifications were implemented. Detailed Test steps is implemented in do
 6. run test(s)
 open console and run one of the following command https://docs.pytest.org/en/stable/usage.html
 `$ pytest` run all tests
-`$pytest -m careers` run tests with mark "careers"
+`$ pytest -m careers` run tests with mark "careers"
