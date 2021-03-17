@@ -33,13 +33,15 @@ Several verifications were implemented. Detailed Test steps is implemented in do
   	"""
 ```
 
-[Links](http://localhost/)
 
-[Reference link][id/name] 
-
-####Inline code
-
-`$ npm install marked`
-
-
-
+###Instruction to install
+----
+1. Python>3 https://www.python.org/
+2. Install and activate Virtual Environment https://docs.python.org/3/tutorial/venv.html
+`$ python3 -m venv env`
+3. Install dependencies 
+`$ pip install -r requirements.txt`
+4. Download chrome driver https://chromedriver.chromium.org/
+5. Move downloaded "chromedriver" to Virtual Env (Step2) to ./bin/ folder
+6. run test(s)
+open console and create run
