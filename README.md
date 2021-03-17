@@ -5,11 +5,13 @@ According to requirements https://github.com/xeneta/test-automation-task impleme
 
 ### Test Cases
 ----
+> **Note**: Selected tests are marked as **bold** from list because. It depends on outside js libraries/actions
+
 |Demo page|
 | --------- | 
 | **Verify header footer menus on page**  | 
 | Verify banner section is displayed with text inside| 
-| Verify services center block| 
+| **Verify services center block**| 
 | Verify footer menu with links| 
 | Verify careers page has header menu bar| 
 | Verify banner section is displayed with text inside| 
@@ -19,10 +21,8 @@ According to requirements https://github.com/xeneta/test-automation-task impleme
 | Verify “Global Tribe” block with links below| 
 | **Verify “Open roles” with dropdowns and text inside**| 
 | Verify footer menu with links| 
+
 Several verifications were implemented. Detailed Test steps is implemented in doc stings for each test. example
-
-> Note: selected 
-
 
 ```javascript
   def test_001_verify_services(self):
