@@ -68,6 +68,7 @@ class ComponentBaseCore(object):
         drv = get_driver()
         drv.execute_script("window.scrollTo(0,document.body.scrollHeight);")
 
+    # TODO scroll to webelement using js
     # def scroll_to_we(self, web_element=None):
     #     if web_element is None:
     #         web_element = self._we
