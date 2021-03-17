@@ -3,7 +3,7 @@
 According to requirements https://github.com/xeneta/test-automation-task implemented test framework. It shows correct structure and approach and possibility of enhancement.
 
 # Test Cases
-> **Note**: Selected tests are marked as **bold** from list because. It depends on outside js libraries/actions
+> **Note**: Selected tests are marked as **bold** from list because it depends on outside js libraries and actions with user
 
 |Demo page|
 | --------- | 
