@@ -1,10 +1,8 @@
 ![](https://www.xeneta.com/hubfs/Product%20Section%20%284%29.png)
 # Xeneta automation test framework
-----
 According to requirements https://github.com/xeneta/test-automation-task implemented test framework. It shows correct structure and approach and possibility of enhancement.
 
 # Test Cases
-----
 > **Note**: Selected tests are marked as **bold** from list because. It depends on outside js libraries/actions
 
 |Demo page|
@@ -34,7 +32,6 @@ Several verifications were implemented. Detailed Test steps is implemented in do
 
 
 # Instruction to install
-----
 1. Python>3 https://www.python.org/
 2. Install and activate Virtual Environment https://docs.python.org/3/tutorial/venv.html
 `$ python3 -m venv env`
