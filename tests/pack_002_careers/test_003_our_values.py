@@ -14,7 +14,6 @@ class Test_001_Verify_Our_Values(BaseTest):
     """
     tabs_constants = ['Xeneta is one', 'Modernization through data', 'Variety and Fairness', 'Transparency builds Trust']
 
-
     def test_000_precondition(self):
         """
         DESCRIPTION: User on career page
@@ -85,4 +84,3 @@ class Test_001_Verify_Our_Values(BaseTest):
             self.assertEqual(text, name,
                              msg=f'Current tabs "{text}" '
                                  f'is not the same as expected "{name}')
-

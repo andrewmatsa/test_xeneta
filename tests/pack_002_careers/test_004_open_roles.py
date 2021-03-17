@@ -12,7 +12,6 @@ class Test_001_Verify_Open_Roles(BaseTest):
     PRECONDITIONS:
     NAME: Verify several dropdowns with text
     """
-
     def test_000_precondition(self):
         """
         DESCRIPTION: User on career page
